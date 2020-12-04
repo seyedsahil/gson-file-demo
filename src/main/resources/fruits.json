@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Apple",
+    "available": true,
+    "count": 20
+  },
+  {
+    "name": "Orange",
+    "available": false,
+    "count": 0
+  }
+]
